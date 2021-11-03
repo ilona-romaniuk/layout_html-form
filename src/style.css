@@ -1,1 +1,13 @@
 /* styles go here */
+.fieldsets {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
+
+#submitButton {
+  margin-left: 8px;
+}
