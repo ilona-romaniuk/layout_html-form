@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,WACE,kBAAmB,CACnB,gBACF,CAEA,YACE,kBACF,CAEA,cACE,eACF","file":"style.9bec5872.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.fieldsets {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.form-field {\n  margin-bottom: 10px;\n}\n\n#submitButton {\n  margin-left: 8px;\n}\n"]}
